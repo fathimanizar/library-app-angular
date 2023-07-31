@@ -1,0 +1,15 @@
+div
+{
+    background: #800506;
+background: -webkit-linear-gradient(top left, #800506, #030301);
+background: -moz-linear-gradient(top left, #800506, #030301);
+background: linear-gradient(to bottom right, #800506, #030301);
+height:50px;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-size:20px;
+   font-weight: 300;
+   text-shadow: 0 0 3px white;
+}
